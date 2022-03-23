@@ -1,0 +1,29 @@
+
+table, th, td {
+    border-spacing: 2rem;
+    background-color: lightgrey;
+    color: black;
+    font-size: 3rem;
+    height: 100%;
+    width: 75%;
+    border: 0.25rem solid rgb(243, 237, 237);
+    border-radius: 1rem;
+    padding:0.3rem;
+  
+  }
+  table{
+    margin: 2rem 13.5%;
+    background-color: rgb(158, 156, 156);
+    color: white;
+}
+  td{
+    margin: 1rem;
+  }
+  .delete{
+      background-color: rgb(228, 146, 146);
+      color: white;
+  }
+  .delete:hover{
+      background-color: red;
+  }
+  

@@ -1,0 +1,15 @@
+html,#root{
+  font-size: 10px;
+  height: 100%;
+  background-color: lightgray;
+}
+body{
+  height: 100%;
+  font-size: 1.6rem;
+}
+.App {
+  text-align: center;
+  height: 100%;
+}
+
+
